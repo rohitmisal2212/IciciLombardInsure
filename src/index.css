@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navigation{
+  background: linear-gradient(to bottom, #f58220 -18%, #b02a30 127%); 
+  font-family: 'Mulish', sans-serif;
+  width: 100vw;
+}
+
+.container1{
+  background-color: #182C61;
+}
+#portexipolicy{
+  color: #ec6608;
+}
+.cashBefit{
+  background-color: #3B3B98;
+}
+.cashlessHospital{
+  background-color: #182C61;
+}
+.befitCover{
+  background-color: #182C61;
+}

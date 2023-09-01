@@ -1,0 +1,132 @@
+
+.MainImg1{
+    width: 100vw;
+    height: 300px;
+}
+
+.MainImg2{
+    position: absolute;
+    top: 110px;
+    right: 150px;
+}
+
+#basic-nav-dropdown{
+    color: white;
+}
+
+.MainBar{
+    width: 60vw;
+    position: absolute;
+    left: 120px;
+    top: 300px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0.5px 0.5px; 
+}
+.fontopt{
+    width: 40vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    top: -25px;
+}
+
+.fontIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 60px;
+    background-color: rgb(242, 234, 234);
+    border-radius: 10px;
+}
+.fontIcon:hover{
+    background-color: rgb(253, 223, 213);
+}
+.fontComp p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.fontopt div p{
+    display: flex;
+    justify-content: center;
+} 
+
+.mainHeading1{
+    position: absolute;
+    top: 100px;
+    left: 120px;
+}
+
+.Navigation{
+    height: 200px;
+    width: 60vw;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.details1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sideBar{
+    height: 600px;
+    position: relative;
+}
+
+.bottomInfo{
+    width: 60vw;
+    position: absolute;
+    left: 120px;
+    top: 650px;
+    border-radius: 20px;
+    display: flex;
+    box-shadow: inset;
+}
+
+.bottomInfo div{
+    margin: 20px;
+}
+
+.bottomInfo1{
+    width: 60vw;
+    position: absolute;
+    left: 120px;
+    top: 750px;
+    border-radius: 20px;
+    display: flex;
+}
+
+.bottomInfo1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottomInfo1 h3{
+    color: orangered;
+}
+
+#dropContent2{
+    width: 350px;
+}
+
+#dropContent4{
+    width: 300px;
+}
+#dropContent5{
+    width: 300px;
+}
+#dropContent7{
+    width: 250px;
+}
+
+

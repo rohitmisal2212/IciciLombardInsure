@@ -1,0 +1,59 @@
+.Heading h1{
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.Heading p{
+    font-size: xx-large;
+}
+
+.Heading{
+    position: relative;
+    top: 66px;
+    left: 20px;
+    
+}
+
+.icon div{
+padding: 5px 30px;
+    border: 2px solid rgb(118, 197, 206);
+    border-radius: 20px;
+
+}
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw;
+    position: relative;
+    top: 90px;
+    left: 15px;
+
+}
+.img{
+    position: relative;
+    top: 200px;
+}
+.info{
+    border: 1px solid rgb(130, 200, 200);
+    border-radius: 20px;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    top: 140px;
+    right: 90px;
+}
+
+.info div{
+    margin: 30px 20px;
+}
+
+.txt{
+    width: 450px;
+    height: 50px;
+    border-radius: 5px;
+}
+.CarButton{
+    width: 450px;
+    height: 50px;
+}
